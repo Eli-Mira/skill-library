@@ -1,0 +1,9 @@
+[submodule "2026-10-03/sources/arcads-claude-code"]
+	path = 2026-10-03/sources/arcads-claude-code
+	url = https://github.com/krusemediallc/arcads-claude-code.git
+[submodule "2026-10-03/sources/claude-skills-founder"]
+	path = 2026-10-03/sources/claude-skills-founder
+	url = https://github.com/emotixco/claude-skills-founder.git
+[submodule "2026-10-03/sources/ismail9k-skills"]
+	path = 2026-10-03/sources/ismail9k-skills
+	url = https://github.com/ismail9k/skills.git
